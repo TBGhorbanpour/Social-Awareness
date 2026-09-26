@@ -1,0 +1,6 @@
+﻿Metric,Value
+Nodes,1999
+Edges,199344
+Communities,14
+Q Modularity,0.1574
+Community Sizes,"{0: 294, 1: 159, 2: 56, 3: 3, 4: 4, 5: 14, 6: 69, 7: 848, 8: 2, 9: 1, 10: 486, 11: 30, 12: 32, 13: 1}"
