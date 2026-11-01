@@ -56,3 +56,42 @@ Social-Awareness/
 ├── Charts.ipynb                   # Step 6: Data visualization
 ├── .gitattributes                 # Git LFS configuration
 └── README.md                      # Project documentation
+
+## 📊 Dataset
+The dataset is stored in the `Data/` directory. Due to its size, `Dataset.csv` is managed using **Git Large File Storage (Git LFS)**.
+
+## 🛠️ Prerequisites & Installation
+## 🛠️ Prerequisites & Installation
+
+To run these notebooks locally, you will need Python 3.8+ and Jupyter. All required dependencies are already listed in the `requirements.txt` file included in this repository.
+
+Install the dependencies by running:
+```bash
+pip install -r requirements.txt
+
+## 💻 How to Run
+
+### Option 1: Google Colab (Recommended)
+Since all notebooks in this repository were created using **Google Colab**, you can easily run them in the cloud without any local setup:
+1. Go to [Google Colab](https://colab.research.google.com/).
+2. Click on the **GitHub** tab in the "Open notebook" dialog.
+3. Paste the URL of this repository: `https://github.com/TBGhorbanpour/Social-Awareness`
+4. Select any notebook to start running, experimenting, and modifying the code.
+
+### Option 2: Local Environment
+If you prefer to run the notebooks on your local machine, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/TBGhorbanpour/Social-Awareness.git
+   cd Social-Awareness
+
+
+```markdown
+## 👤 Author
+
+**Tayebe Ghorbanpour**  
+- GitHub: [@TBGhorbanpour](https://github.com/TBGhorbanpour)
+- Email: tb.qorbanpoor94@gmail.com
+
+*If you found this project useful, please consider giving it a ⭐️ on GitHub!*
