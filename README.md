@@ -60,14 +60,12 @@ Social-Awareness/
 The dataset is stored in the `Data/` directory. Due to its size, `Dataset.csv` is managed using **Git Large File Storage (Git LFS)**.
 
 ## 🛠️ Prerequisites & Installation
-## 🛠️ Prerequisites & Installation
-
 To run these notebooks locally, you will need Python 3.8+ and Jupyter. All required dependencies are already listed in the `requirements.txt` file included in this repository.
 
 Install the dependencies by running:
 ```bash
 pip install -r requirements.txt
-
+```
 ## 💻 How to Run
 
 ### Option 1: Google Colab (Recommended)
@@ -84,9 +82,9 @@ If you prefer to run the notebooks on your local machine, follow these steps:
    ```bash
    git clone https://github.com/TBGhorbanpour/Social-Awareness.git
    cd Social-Awareness
+```
 
 
-```markdown
 ## 👤 Author
 
 **Tayebe Ghorbanpour**  
