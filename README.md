@@ -18,7 +18,6 @@ Given the use of specialized tools like **DadmaTools**, this pipeline is particu
 - [Dataset](#-dataset)
 - [Prerequisites & Installation](#-prerequisites--installation)
 - [How to Run](#-how-to-run)
-- [Contributing](#-contributing)
 - [Author](#-author)
 
 ## 🔄 Pipeline & Workflow
@@ -56,7 +55,7 @@ Social-Awareness/
 ├── Charts.ipynb                   # Step 6: Data visualization
 ├── .gitattributes                 # Git LFS configuration
 └── README.md                      # Project documentation
-
+```
 ## 📊 Dataset
 The dataset is stored in the `Data/` directory. Due to its size, `Dataset.csv` is managed using **Git Large File Storage (Git LFS)**.
 
