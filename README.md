@@ -82,9 +82,8 @@ If you prefer to run the notebooks on your local machine, follow these steps:
    ```bash
    git clone https://github.com/TBGhorbanpour/Social-Awareness.git
    cd Social-Awareness
-```
 
-```markdown
+
 ## 👤 Author
 
 **Tayebe Ghorbanpour**  
